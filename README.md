@@ -15,6 +15,7 @@ _More suggestions welcome!_
 * [Todo](https://github.com/gaui/todoApp-angular-mobx-webpack) - ui-router 1, MobX, Webpack
 * [Weather](https://github.com/paulhoughton/weather/) - TypeScript 2, ui-router 1, Tests
 * [DuckDuckGo](https://github.com/vinaygopinath/duckduckgo-angular-demo) - TypeScript, Webpack, Test coverage
+* [Echoes Youtube player](https://github.com/orizens/echoes) - ES2015, Webpack, Gulp, Rollup, Tests
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
