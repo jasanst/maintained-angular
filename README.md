@@ -14,9 +14,10 @@ _More suggestions welcome!_
 * [Contacts](https://github.com/toddmotto/angular-1-5-components-app) - ui-router 1, Firebase, Tests
 * [Todo](https://github.com/gaui/todoApp-angular-mobx-webpack) - ui-router 1, MobX, Webpack
 * [Weather](https://github.com/paulhoughton/weather/) - TypeScript 2, ui-router 1, Tests
-* [DuckDuckGo](https://github.com/vinaygopinath/duckduckgo-angular-demo) TypeScript, Webpack, Test coverage
+* [DuckDuckGo](https://github.com/vinaygopinath/duckduckgo-angular-demo) - TypeScript, Webpack, Test coverage
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
 * [TV Tracker](https://github.com/mattlewis92/angular2-tv-tracker/) - TypeScript 2, Webpack
 * [Echoes Youtube Player](https://github.com/orizens/echoes-ng2) - TypeScript 2, Webpack, Tests
+* [Stock Portfolio](https://github.com/paulhoughton/portfolio) - TypeScript 2, Webpack
