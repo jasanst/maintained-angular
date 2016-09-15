@@ -1,6 +1,6 @@
 # Maintained Angular Projects
 
-Angular 1 and 2 have change massively since their inception but not all projects have been maintained, this list is intended to showcase those authors who keep their applications up-to-date using the latest best practices.
+Angular 1 and 2 have changed massively since their inception but not all projects have been maintained, this list is intended to showcase those authors who keep their applications up-to-date using the latest best practices.
 
 For Angular 1 this means using the component tree structure.
 
@@ -22,3 +22,6 @@ _More suggestions welcome!_
 * [TV Tracker](https://github.com/mattlewis92/angular2-tv-tracker/) - TypeScript 2, Webpack
 * [Echoes Youtube Player](https://github.com/orizens/echoes-ng2) - TypeScript 2, Webpack, Tests
 * [Stock Portfolio](https://github.com/paulhoughton/portfolio) - TypeScript 2, Webpack
+* [Chat](https://github.com/ng-book/angular2-rxjs-chat/) - TypeScript, Webpack, Tests
+* [Admin template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template/tree/master/Angular2_CLI_Dev) - Angular cli, TypeScript 2, Tests
+* [Hacker news](https://github.com/hdjirdeh/angular2-hn) - Angular cli, TypeScript 2, Firebase, Tests
