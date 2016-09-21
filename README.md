@@ -16,6 +16,7 @@ _More suggestions welcome!_
 * [Weather](https://github.com/paulhoughton/weather/) - TypeScript 2, ui-router 1, Tests
 * [DuckDuckGo](https://github.com/vinaygopinath/duckduckgo-angular-demo) - TypeScript, Webpack, Test coverage
 * [Echoes Youtube player](https://github.com/orizens/echoes) - ES2015, Webpack, Gulp, Rollup, Tests
+* [Phonecat](https://github.com/emartech/angular-phonecat-components) - ES2015, ngRoute, Webpack
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
