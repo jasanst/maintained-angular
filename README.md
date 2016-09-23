@@ -18,6 +18,7 @@ _More suggestions welcome!_
 * [Echoes Youtube player](https://github.com/orizens/echoes) - ES2015, Webpack, Gulp, Rollup, Tests
 * [Phonecat](https://github.com/emartech/angular-phonecat-components) - ES2015, ngRoute, Webpack
 * [Blog](https://github.com/petahz/blog) - Webpack, Tests
+* [Eggly Bookmarks](https://github.com/simpulton/eggly-redux) - ES2015, Redux, Webpack, Gulp, Tests
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
