@@ -19,6 +19,7 @@ _More suggestions welcome!_
 * [Phonecat](https://github.com/emartech/angular-phonecat-components) - ES2015, ngRoute, Webpack
 * [Blog](https://github.com/petahz/blog) - Webpack, Tests
 * [Eggly Bookmarks](https://github.com/simpulton/eggly-redux) - ES2015, Redux, Webpack, Gulp, Tests
+* [Admin Charts](https://github.com/emforce/Angular-Component-Admin-Panel) - ngRoute, Gulp
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
