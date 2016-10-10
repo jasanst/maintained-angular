@@ -20,6 +20,7 @@ _More suggestions welcome!_
 * [Blog](https://github.com/petahz/blog) - Webpack, Tests
 * [Eggly Bookmarks](https://github.com/simpulton/eggly-redux) - ES2015, Redux, Webpack, Gulp, Tests
 * [Admin Charts](https://github.com/emforce/Angular-Component-Admin-Panel) - ngRoute, Gulp
+* [Tour of Heroes](https://github.com/lucaseverett/heroes-ng1/) - ES2015, Webpack
 
 ## Angular 2
 * [Meetup Events](https://github.com/jerry-i/meetup-events/) - TypeScript, Firebase, Webpack, Tests 
@@ -29,3 +30,4 @@ _More suggestions welcome!_
 * [Chat](https://github.com/ng-book/angular2-rxjs-chat/) - TypeScript, Webpack, Tests
 * [Admin template](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template/tree/master/Angular2_CLI_Dev) - Angular cli, TypeScript 2, Tests
 * [Hacker news](https://github.com/hdjirdeh/angular2-hn) - Angular cli, TypeScript 2, Firebase, Tests
+* [SoundCloud](https://github.com/r-park/soundcloud-ngrx) - TypeScript 2, ngRx, Webpack, Tests
